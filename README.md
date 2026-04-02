@@ -1,6 +1,12 @@
-<div align="center">
+# Kevin Silva Ramos
+
 ![marty supreme](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU3dTcxZTdqM3BsdjJ6c3U0Zmx6YWhldjN4eGVlbDFsNm11cXljeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uS3NqHLOmjk8raLcOC/giphy.gif)
-</div>
+
+
+## Description
+  Desenvolvedor Back-End com formação técnica pelo SENAI, atualmente cursando Desenvolvimento de Software Multiplataforma pela Fatec Itaquera e desenvolvendo projetos práticos utilizando Python, Java, PHP, HTML e CSS.
+
+Busco constantemente evoluir minhas habilidades através da criação de aplicações web e do estudo contínuo de boas práticas de desenvolvimento. Tenho grande interesse em construir interfaces modernas e interativas, com o objetivo de me tornar um Desenvolvedor Full Stack no futuro.
 
 <div align="center">
   <h3>
@@ -9,21 +15,16 @@
 </div>
 <br>
 
-## Description
-  Desenvolvedor Back-End com formação técnica pelo SENAI, atualmente cursando Desenvolvimento de Software Multiplataforma pela Fatec Itaquera e desenvolvendo projetos práticos utilizando Python, Java, PHP, HTML e CSS.
-
-Busco constantemente evoluir minhas habilidades através da criação de aplicações web e do estudo contínuo de boas práticas de desenvolvimento. Tenho grande interesse em construir interfaces modernas e interativas, com o objetivo de me tornar um Desenvolvedor Full Stack no futuro.
-
 ## 🚀 About Me
 
-- 🎓 Cursando atualmente **Desenvolvimento de Software Multiplataforma na Fatec Itaquera**
-- 🎓 Programação Java — SENAI (Concluído)
-- 🎓 Programação IA Generativa — SENAI 
+- 🎓 Cursando atualmente **Desenvolvimento de Software Multiplataforma** na  **Fatec Itaquera**
+- 🎓 Programação Java — **SENAI** (Concluído)
+- 🎓 Programação IA Generativa — **SENAI** 
 - 💻 Focado em **Java, Python, HTML e CSS**
-- 🧠 Inglês Intermediário - Wizard (2 anos)
+- 🧠 Inglês Intermediário - **Wizard** (2 anos)
 
 <h3 align="left"> 📨 Redes: </h3>
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/kevins.ramos/" target="blank"><img align="center" src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0" alt="matheus" height="40" width="40" /></a>
   <a href="https://x.com/kevins_ramos?s=11" target="blank"><img align="center" src="https://img.freepik.com/vetores-gratis/novo-design-de-icone-x-do-logotipo-do-twitter-em-2023_1017-45418.jpg?semt=ais_hybrid&w=740&q=80" alt="matheus" height="40" width="40" /></a>
 </p>
