@@ -1,7 +1,6 @@
+<div align="center">
 ![marty supreme](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU3dTcxZTdqM3BsdjJ6c3U0Zmx6YWhldjN4eGVlbDFsNm11cXljeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uS3NqHLOmjk8raLcOC/giphy.gif)
-<p align="center">
-## Kevin Silva Ramos
-<p>
+</div>
 
 <div align="center">
   <h3>
