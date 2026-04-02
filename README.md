@@ -13,7 +13,7 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
     💻 Back-End Developer | Python • Java • PHP • HTML • CSS 
   </h3><br>
 </div>
-<br>
+
 
 ## 🚀 About Me
 
