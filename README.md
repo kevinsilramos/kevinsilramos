@@ -1,4 +1,9 @@
 # Kevin Silva Ramos
+<div align="left">
+  <h3>
+    💻 Back-End Developer | Python • Java • PHP • HTML • CSS 
+  </h3><br>
+</div>
 
 ![marty supreme](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU3dTcxZTdqM3BsdjJ6c3U0Zmx6YWhldjN4eGVlbDFsNm11cXljeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uS3NqHLOmjk8raLcOC/giphy.gif)
 
@@ -7,12 +12,6 @@
   Desenvolvedor Back-End com formação técnica pelo SENAI, atualmente cursando Desenvolvimento de Software Multiplataforma pela Fatec Itaquera e desenvolvendo projetos práticos utilizando Python, Java, PHP, HTML e CSS.
 
 Busco constantemente evoluir minhas habilidades através da criação de aplicações web e do estudo contínuo de boas práticas de desenvolvimento. Tenho grande interesse em construir interfaces modernas e interativas, com o objetivo de me tornar um Desenvolvedor Full Stack no futuro.
-
-<div align="center">
-  <h3>
-    💻 Back-End Developer | Python • Java • PHP • HTML • CSS 
-  </h3><br>
-</div>
 
 
 ## 🚀 About Me
