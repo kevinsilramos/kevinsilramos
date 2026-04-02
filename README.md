@@ -22,12 +22,6 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
 - 💻 Focado em **Java, Python, HTML e CSS**
 - 🧠 Inglês Intermediário - **Wizard** (2 anos)
 
-##🌐 Redes:
-<p align="left">
-  <a href="https://www.instagram.com/kevins.ramos/" target="blank"><img align="center" src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0" alt="matheus" height="40" width="40" /></a>
-  <a href="https://x.com/kevins_ramos?s=11" target="blank"><img align="center" src="https://img.freepik.com/vetores-gratis/novo-design-de-icone-x-do-logotipo-do-twitter-em-2023_1017-45418.jpg?semt=ais_hybrid&w=740&q=80" alt="matheus" height="40" width="40" /></a>
-</p>
-
 ## ⭐ Back-End Development
 <p align="left">
   <img src="https://i0.wp.com/azuredays.com/wp-content/uploads/2020/06/html5_badge.png?ssl=1&fit=3816%2C1590" height="50" alt="html">
@@ -42,4 +36,10 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
   <img src="https://images.icon-icons.com/2415/PNG/512/java_original_logo_icon_146458.png" height="50" alt="java">
   <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="50" alt="mysql">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" height="50" alt="python">
+</p>
+
+## 🌐 Redes:
+<p align="left">
+  <a href="https://www.instagram.com/kevins.ramos/" target="blank"><img align="center" src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0" alt="matheus" height="40" width="40" /></a>
+  <a href="https://x.com/kevins_ramos?s=11" target="blank"><img align="center" src="https://img.freepik.com/vetores-gratis/novo-design-de-icone-x-do-logotipo-do-twitter-em-2023_1017-45418.jpg?semt=ais_hybrid&w=740&q=80" alt="matheus" height="40" width="40" /></a>
 </p>
