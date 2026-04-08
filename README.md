@@ -1,11 +1,11 @@
 # Kevin Silva Ramos
 <div align="left">
   <h3>
-    💻 Back-End Developer | Python • Java • PHP • HTML • CSS 
+    Back-End Developer | Python • Java • HTML • CSS 
   </h3><br>
 </div>
 
-![marty supreme](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnU3dTcxZTdqM3BsdjJ6c3U0Zmx6YWhldjN4eGVlbDFsNm11cXljeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uS3NqHLOmjk8raLcOC/giphy.gif)
+![the social network](https://64.media.tumblr.com/98e228926c2c704894032ec136227e9f/tumblr_n4bomoiDUh1s0t6o2o1_500.gif)
 
 
 ## Description
@@ -25,9 +25,11 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
 ## ⭐ Back-End Development
 <p align="left">
   <img src="https://i.imgur.com/Pns2njG.png" height="100" alt="html">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="50" alt="css">
-  <img src="https://th.bing.com/th/id/R.04c5f18749c6a1c64b65f6d8f26d7b53?rik=LkrYgbJM3QA11g&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjavascript-vector-png-javascript-vector-logo-600.png&ehk=AXgaWQyvJOW74V%2fR1QuC2sk1YLpGBMJiGQVzBM07y2Q%3d&risl=&pid=ImgRaw&r=0" height="50" alt="javascript">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" height="50" alt="php">
+  <img src="https://i.imgur.com/PCnfeRh.png" height="100" alt="css">
+  <img src="https://i.imgur.com/xhJDcwZ.png" height="100" alt="javascript">
+  <img src="https://i.imgur.com/7rRxndV.png" height="100" alt="pyhton">
+  <img src="https://i.imgur.com/32T2jS4.png" height="100" alt="java">
+  <img src="https://i.imgur.com/8l19bde.png" height="100" alt="html">
   </p>
 
 
