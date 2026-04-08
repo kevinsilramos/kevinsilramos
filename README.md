@@ -35,7 +35,7 @@ Busco constantemente evoluir minhas habilidades através da criação de aplica�
 <p align="left">
   <img src="https://images.icon-icons.com/2415/PNG/512/java_original_logo_icon_146458.png" height="50" alt="java">
   <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" height="50" alt="mysql">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" height="50" alt="python">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png](https://drive.google.com/drive/u/2/home)" height="50" alt="python">
 </p>
 
 ## 🌐 Redes:
