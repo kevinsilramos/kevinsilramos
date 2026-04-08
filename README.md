@@ -23,21 +23,22 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
 
 ## ⭐ Development Skills
 <p align="left">
-  <img src="https://i.imgur.com/Pns2njG.png" height="100" alt="html">
-  <img src="https://i.imgur.com/PCnfeRh.png" height="100" alt="css">
-  <img src="https://i.imgur.com/xhJDcwZ.png" height="100" alt="java">
-  <img src="https://i.imgur.com/7rRxndV.png" height="100" alt="javascript">
-  <img src="https://i.imgur.com/32T2jS4.png" height="100" alt="pyhton">
+  <img src="https://i.imgur.com/Pns2njG.png" height="80" alt="html">
+  <img src="https://i.imgur.com/PCnfeRh.png" height="80" alt="css">
+  <img src="https://i.imgur.com/xhJDcwZ.png" height="80" alt="java">
+  <img src="https://i.imgur.com/7rRxndV.png" height="80" alt="javascript">
+  <img src="https://i.imgur.com/32T2jS4.png" height="80" alt="pyhton">
   </p>
 
 
 ## 🧠 Studing
 <p align="left">
-  <img src="https://i.imgur.com/xhJDcwZ.png" height="100" alt="java">
-  <img src="https://i.imgur.com/32T2jS4.png" height="100" alt="pyhton">
-  <img src="https://i.imgur.com/8l19bde.png" height="100" alt="ai">
+  <img src="https://i.imgur.com/xhJDcwZ.png" height="80" alt="java">
+  <img src="https://i.imgur.com/32T2jS4.png" height="80" alt="pyhton">
+  <img src="https://i.imgur.com/8l19bde.png" height="80" alt="ai">
 </p>
 
 ## 🌐 Redes:
 <p align="left">
+  
 </p>
