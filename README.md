@@ -42,7 +42,7 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
 <p align="left">
   <p>
   <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
-    <img src="https://i.imgur.com/PAk82sN.png" height="40" alt="LinkedIn" style="display: block;">
+    <img src="https://i.imgur.com/PAk82sN.png" height="80" alt="LinkedIn">
   </a>
   </p>
 
