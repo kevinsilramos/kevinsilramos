@@ -15,7 +15,7 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
 ## About Me
 
 - 🎓 Cursando atualmente **Desenvolvimento de Software Multiplataforma** na  **Fatec Professor Miguel Reale**
-- 🎓 Programação Java Completo — **Udemy Academy** (Concluído)
+- 🎓 Programação Java Completo — **Udemy Academy** 
 - 🎓 Programação Java — **SENAI** (Concluído)
 - 🎓 Programação IA Generativa — **SENAI** 
 - 💻 Focado em **Java, Python, HTML e CSS**
