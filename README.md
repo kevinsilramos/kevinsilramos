@@ -47,7 +47,7 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
   </p>
 
   <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
-    <img src="https://i.imgur.com/KHiFIQ5.png" height="80" style="display: inline-block;">
+    <img src="https://i.imgur.com/KHiFIQ5.png" height="80" alt="Instagram">
   </a>
 </p>
 
