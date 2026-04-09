@@ -26,21 +26,34 @@ Desenvolvedor Júnior em formação, com foco em desenvolvimento web e interesse
 - Projetos para evoluir backend e frontend
 - Estudos em arquitetura web e boas práticas de desenvolvimento
 
-## Development Skills 
-<p align="left">
-  <img src="https://i.imgur.com/5ony14F.png" height="80" alt="html">
-  <img src="https://i.imgur.com/e9vgfLs.png" height="80" alt="css">
-  <img src="https://i.imgur.com/wpBtMUA.png" height="80" alt="javascript">
-  <img src="https://i.imgur.com/32T2jS4.png" height="80" alt="pyhton">
-  <img src="https://i.imgur.com/xhJDcwZ.png" height="80" alt="java">
-  </p>
+## Tech Stack 
 
-## Studying 
+**Languages:** Python, Java, JavaScript  
+**Frontend:** HTML, CSS  
+**Backend:** Django (em evolução)  
+**Concepts:** CRUD, autenticação, lógica de programação, estrutura de dados  
+
 <p align="left">
-  <img src="https://i.imgur.com/xhJDcwZ.png" height="80" alt="java">
-  <img src="https://i.imgur.com/32T2jS4.png" height="80" alt="python">
-  <img src="https://i.imgur.com/6rHaYxY.png" height="80" alt="django">
-  <img src="https://i.imgur.com/8l19bde.png" height="80" alt="ai">
+  <img src="https://i.imgur.com/5ony14F.png" height="70" alt="HTML">
+  <img src="https://i.imgur.com/e9vgfLs.png" height="70" alt="CSS">
+  <img src="https://i.imgur.com/wpBtMUA.png" height="70" alt="JavaScript">
+  <img src="https://i.imgur.com/32T2jS4.png" height="70" alt="Python">
+  <img src="https://i.imgur.com/xhJDcwZ.png" height="70" alt="Java">
+</p>
+
+
+## Currently Studying 
+
+- Desenvolvimento web com Django  
+- Estruturação de aplicações backend  
+- Integração entre frontend e backend  
+- Fundamentos de IA generativa  
+
+<p align="left">
+  <img src="https://i.imgur.com/xhJDcwZ.png" height="70" alt="Java">
+  <img src="https://i.imgur.com/32T2jS4.png" height="70" alt="Python">
+  <img src="https://i.imgur.com/6rHaYxY.png" height="70" alt="Django">
+  <img src="https://i.imgur.com/8l19bde.png" height="70" alt="AI">
 </p>
 
 ##  Socials 
