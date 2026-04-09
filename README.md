@@ -11,7 +11,7 @@
 ## Description
 Desenvolvedor Júnior em formação, com foco em desenvolvimento web e interesse crescente em backend, frontend e boas práticas de software. Atualmente construo projetos próprios para evoluir em arquitetura, interfaces e lógica de programação, com objetivo de me tornar um Desenvolvedor Full Stack.
 
-## About Me
+## Education & Certifications
 
 - 🎓 Cursando atualmente **Desenvolvimento de Software Multiplataforma** na  **Fatec Professor Miguel Reale**
 - 🎓 Programação Java Completo — **Udemy Academy** 
@@ -59,10 +59,10 @@ Desenvolvedor Júnior em formação, com foco em desenvolvimento web e interesse
 ##  Socials 
 <p align="left">
     <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
-      <img src="https://i.imgur.com/PAk82sN.png" height="80" alt="LinkedIn">
+      <img src="https://i.imgur.com/PAk82sN.png" height="70" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
-      <img src="https://i.imgur.com/KHiFIQ5.png" height="80" alt="Instagram">
+      <img src="https://i.imgur.com/KHiFIQ5.png" height="70" alt="Instagram">
     </a>
 </p>
 
