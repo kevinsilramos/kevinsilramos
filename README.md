@@ -20,7 +20,7 @@ Desenvolvedor Júnior em formação, com foco em desenvolvimento web e interesse
 - 💻 Focado em **Java, Python, HTML e CSS**
 - 🧠 Inglês Intermediário - **Wizard** 
 
-## Currently Building ⚙️
+## Currently Building 
 
 - Uma rede social acadêmica com Django
 - Projetos para evoluir backend e frontend
@@ -39,6 +39,7 @@ Desenvolvedor Júnior em formação, com foco em desenvolvimento web e interesse
 <p align="left">
   <img src="https://i.imgur.com/xhJDcwZ.png" height="80" alt="java">
   <img src="https://i.imgur.com/32T2jS4.png" height="80" alt="python">
+  <img src="https://i.imgur.com/6rHaYxY.png" height="80" alt="django">
   <img src="https://i.imgur.com/8l19bde.png" height="80" alt="ai">
 </p>
 
