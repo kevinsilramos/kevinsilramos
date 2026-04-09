@@ -39,14 +39,13 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
 </p>
 
 ##  Redes 🌐
-<p align="left">    
+<p align="left">
   <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
-    <img src="https://i.imgur.com/PAk82sN.png" height="80" alt="LinkedIn" style="display: block;">
-  </a>&nbsp;
+    <img src="https://i.imgur.com/PAk82sN.png" height="80" style="display: inline-block; margin-right: 10px;">
+  </a>
+
   <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
-    <img src="https://i.imgur.com/KHiFIQ5.png" height="80" alt="LinkedIn" style="display: block;">
+    <img src="https://i.imgur.com/KHiFIQ5.png" height="80" style="display: inline-block;">
   </a>
 </p>
-## Description
-Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilidades através da criação de aplicações web e do estudo contínuo de boas práticas de desenvolvimento. Tenho grande interesse em construir interfaces modernas e interativas, com o objetivo de me tornar um Desenvolvedor Full Stack no futuro.
 
