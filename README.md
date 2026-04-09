@@ -21,7 +21,7 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
 - 💻 Focado em **Java, Python, HTML e CSS**
 - 🧠 Inglês Intermediário - **Wizard** (2 anos)
 
-## ⭐ Development Skills
+## Development Skills ⭐
 <p align="left">
   <img src="https://i.imgur.com/5ony14F.png" height="80" alt="html">
   <img src="https://i.imgur.com/e9vgfLs.png" height="80" alt="css">
@@ -31,17 +31,18 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
   </p>
 
 
-## 🧠 Studing
+## Studing 🧠
 <p align="left">
   <img src="https://i.imgur.com/xhJDcwZ.png" height="80" alt="java">
   <img src="https://i.imgur.com/32T2jS4.png" height="80" alt="pyhton">
   <img src="https://i.imgur.com/8l19bde.png" height="80" alt="ai">
 </p>
 
-## 🌐 Redes:
+##  Redes 🌐
 <p align="left">
   <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
   <img src="https://i.imgur.com/PAk82sN.png" height="80" alt="LinkedIn">
+    
   <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
   <img src="https://i.imgur.com/KHiFIQ5.png" height="80" alt="Instagram"> 
 </a>
