@@ -1,7 +1,7 @@
 # Kevin Silva Ramos
 <div align="left">
   <h3>
-    Developer Junior | Python • Java • HTML • CSS • JavaScript
+   Junior Software Developer | Python • Java • HTML • CSS • JavaScript
   </h3><br>
 </div>
 
@@ -9,8 +9,7 @@
 
 
 ## Description
-Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilidades através da criação de aplicações web e do estudo contínuo de boas práticas de desenvolvimento. Tenho grande interesse em construir interfaces modernas e interativas, com o objetivo de me tornar um Desenvolvedor Full Stack no futuro.
-
+Desenvolvedor Júnior em formação, com foco em desenvolvimento web e interesse crescente em backend, frontend e boas práticas de software. Atualmente construo projetos próprios para evoluir em arquitetura, interfaces e lógica de programação, com objetivo de me tornar um Desenvolvedor Full Stack.
 
 ## About Me
 
@@ -19,7 +18,13 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
 - 🎓 Programação Java — **SENAI** (Concluído)
 - 🎓 Programação IA Generativa — **SENAI** 
 - 💻 Focado em **Java, Python, HTML e CSS**
-- 🧠 Inglês Intermediário - **Wizard** (2 anos)
+- 🧠 Inglês Intermediário - **Wizard** 
+
+## Currently Building ⚙️
+
+- Uma rede social acadêmica com Django
+- Projetos para evoluir backend e frontend
+- Estudos em arquitetura web e boas práticas de desenvolvimento
 
 ## Development Skills ⭐
 <p align="left">
@@ -30,26 +35,20 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
   <img src="https://i.imgur.com/xhJDcwZ.png" height="80" alt="java">
   </p>
 
-
-## Studing 🧠
+## Studying 🧠
 <p align="left">
   <img src="https://i.imgur.com/xhJDcwZ.png" height="80" alt="java">
-  <img src="https://i.imgur.com/32T2jS4.png" height="80" alt="pyhton">
+  <img src="https://i.imgur.com/32T2jS4.png" height="80" alt="python">
   <img src="https://i.imgur.com/8l19bde.png" height="80" alt="ai">
 </p>
 
-##  Redes 🌐
+##  Socials 🌐
 <p align="left">
-  <span>
     <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
       <img src="https://i.imgur.com/PAk82sN.png" height="80" alt="LinkedIn">
     </a>
-  </span>
-
-  <span>
     <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
       <img src="https://i.imgur.com/KHiFIQ5.png" height="80" alt="Instagram">
     </a>
-  </span>
 </p>
 
