@@ -40,14 +40,16 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
 
 ##  Redes 🌐
 <p align="left">
-  <p>
-  <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
-    <img src="https://i.imgur.com/PAk82sN.png" height="80" alt="LinkedIn">
-  </a>
-  </p>
+  <span>
+    <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
+      <img src="https://i.imgur.com/PAk82sN.png" height="80" alt="LinkedIn">
+    </a>
+  </span>
 
-  <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
-    <img src="https://i.imgur.com/KHiFIQ5.png" height="80" alt="Instagram">
-  </a>
+  <span>
+    <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
+      <img src="https://i.imgur.com/KHiFIQ5.png" height="80" alt="Instagram">
+    </a>
+  </span>
 </p>
 
