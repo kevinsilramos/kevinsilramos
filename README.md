@@ -42,12 +42,12 @@ Desenvolvedor Júnior em formação, busco constantemente evoluir minhas habilid
 <p align="left">    
  <p>
   <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
-    <img src="https://i.imgur.com/PAk82sN.png" height="40" alt="LinkedIn" style="display: block;">
+    <img src="https://i.imgur.com/PAk82sN.png" height="80" alt="LinkedIn" style="display: block;">
   </a>
 </p>
-  <a href="https://www.instagram.com/devkevinsramos/" target="_blank" style="text-decoration: none;">
-  <img src="https://i.imgur.com/KHiFIQ5.png" height="80" alt="Instagram"> 
-  <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank" style="text-decoration: none;">
-  <img src="https://i.imgur.com/PAk82sN.png" height="80" alt="LinkedIn">
-</a>
+<p>
+  <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
+    <img src="https://i.imgur.com/KHiFIQ5.png" height="80" alt="LinkedIn" style="display: block;">
+  </a>
+</p>
 </p>
