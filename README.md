@@ -1,68 +1,45 @@
-# Kevin Silva Ramos
-<div align="left">
-  <h3>
-   Junior Software Developer | Python • Java • HTML • CSS • JavaScript
-  </h3><br>
-</div>
+<h1 align="center">Kevin Silva Ramos</h1>
 
-![the social network](https://64.media.tumblr.com/98e228926c2c704894032ec136227e9f/tumblr_n4bomoiDUh1s0t6o2o1_500.gif)
-
-
-## Description
-Desenvolvedor Júnior em formação, com foco em desenvolvimento web e interesse crescente em backend, frontend e boas práticas de software. Atualmente construo projetos próprios para evoluir em arquitetura, interfaces e lógica de programação, com objetivo de me tornar um Desenvolvedor Full Stack.
-
-## Education & Certifications
-
-- 🎓 Cursando atualmente **Desenvolvimento de Software Multiplataforma** na  **Fatec Professor Miguel Reale**
-- 🎓 Programação Java Completo — **Udemy Academy** 
-- 🎓 Programação Java — **SENAI** (Concluído)
-- 🎓 Programação IA Generativa — **SENAI** 
-- 💻 Focado em **Java, Python, HTML e CSS**
-- 🧠 Inglês Intermediário - **Wizard** 
-
-## Currently Building 
-
-- Uma rede social acadêmica com Django
-- Projetos para evoluir backend e frontend
-- Estudos em arquitetura web e boas práticas de desenvolvimento
-
-## Tech Stack 
-
-**Languages:** Python, Java, JavaScript  
-**Frontend:** HTML, CSS  
-**Backend:** Django (em evolução)  
-**Concepts:** CRUD, autenticação, lógica de programação, estrutura de dados  
-
-<p align="left">
-  <img src="https://i.imgur.com/5ony14F.png" height="70" alt="HTML">
-  <img src="https://i.imgur.com/e9vgfLs.png" height="70" alt="CSS">
-  <img src="https://i.imgur.com/wpBtMUA.png" height="70" alt="JavaScript">
-  <img src="https://i.imgur.com/32T2jS4.png" height="70" alt="Python">
-  <img src="https://i.imgur.com/xhJDcwZ.png" height="70" alt="Java">
+<p align="center">
+  Software Development student focused on web development, backend, frontend, and practical software projects.
 </p>
 
-
-## Currently Studying 
-
-- Desenvolvimento web com Django  
-- Estruturação de aplicações backend  
-- Integração entre frontend e backend  
-- Fundamentos de IA generativa  
-
-<p align="left">
-  <img src="https://i.imgur.com/xhJDcwZ.png" height="70" alt="Java">
-  <img src="https://i.imgur.com/32T2jS4.png" height="70" alt="Python">
-  <img src="https://i.imgur.com/6rHaYxY.png" height="70" alt="Django">
-  <img src="https://i.imgur.com/8l19bde.png" height="70" alt="AI">
+<p align="center">
+  Currently studying Software Multiplatform Development at Fatec Professor Miguel Reale.
 </p>
 
-##  Socials 
-<p align="left">
-    <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
-      <img src="https://i.imgur.com/PAk82sN.png" height="70" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
-      <img src="https://i.imgur.com/KHiFIQ5.png" height="70" alt="Instagram">
-    </a>
+<p align="center">
+  <img src="https://64.media.tumblr.com/98e228926c2c704894032ec136227e9f/tumblr_n4bomoiDUh1s0t6o2o1_500.gif" alt="The Social Network" width="420">
 </p>
 
+<p align="center">
+  I am a junior developer in training, currently building personal projects to improve my knowledge in web architecture, interfaces, backend logic, and software best practices. My main goal is to grow as a Full Stack Developer by creating real projects and improving them step by step.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  Currently building an academic social network with Django, improving backend and frontend projects, and studying web architecture, API integration, and Generative AI fundamentals.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevin-s-ramos-6395b2351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/devkevinsramos/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devkevinsramos&label=Visitors&color=0e75b6&style=flat" />
+</p>
